@@ -18,6 +18,7 @@ If the user inputs  3 6 0 1 3 4 2 5 3 0, the program will output there are simpl
   
 On the other hand if the input is: 
 3 6 4 1 3 4 2 5 3 0
+
 The program will print:
 [ 3R, 6 , 4R, 1L, 3 , 4R, 2R, 5 , 3L, 0 ]
 [ 3R, 6R, 4R, 1R, 3L, 4R, 2R, 5L, 3L, 0 ]
